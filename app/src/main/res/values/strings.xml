@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartTVNotification</string>
+    <string name="service_name">NotificationKey</string>
+    <string name="service_type">_http._tcp.</string>
+
+    <string name="notification_listener_service_explanation">"For the the app. to work you need to enable the Notification Listener Service. Enable it now?"</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

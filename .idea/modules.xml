@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Downloads-SmartTVNotification.iml" filepath="$PROJECT_DIR$/Downloads-SmartTVNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SmartTVNotification.iml" filepath="$PROJECT_DIR$/.idea/SmartTVNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/SmartTVNotification-app.iml" filepath="$PROJECT_DIR$/app/SmartTVNotification-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tvmodule/SmartTVNotification-tvmodule.iml" filepath="$PROJECT_DIR$/tvmodule/SmartTVNotification-tvmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tvmodule/tvmodule.iml" filepath="$PROJECT_DIR$/tvmodule/tvmodule.iml" />
+    </modules>
+  </component>
+</project>
